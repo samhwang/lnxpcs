@@ -13,6 +13,7 @@ If you like something and want it on a T-Shirt, use the link below.
 --arch
 
 - [arch-anatomy.png](https://teespring.com/dsd-exploded-arch#pid=2&cid=573&sid=front)
+- [arch-badge.png](https://teespring.com/arch-badge)
 - [arch-formula.png](https://teespring.com/arch-linux-formula#pid=2&cid=2397&sid=front)
 - [arch-lines.png](https://teespring.com/arch-lines#pid=2&cid=573&sid=front)
 - [arch-linux-n1.png](https://teespring.com/arch-linux-n1#pid=2&cid=2397&sid=front)
