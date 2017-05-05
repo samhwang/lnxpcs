@@ -2,7 +2,7 @@
 
 All artwork is distributed under IDGaF license. It means that you can use provided designs for any noncommercial purposes like creation of handout materials for conferences and meet-ups, printing wall posters for home and office and so on, but if you violate the license I will most probably do nothing, because I don't give a fuck.
 
-If you like something and want it on a T-Shirt, please use the link below. For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
+If you like something and want it on a T-Shirt or Hoodie, please use the link below. For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
 
 **-distro**
 
@@ -72,6 +72,7 @@ If you like something and want it on a T-Shirt, please use the link below. For c
 - [eye-chart.png](https://teespring.com/dsd-linux-eye-chart)
 - [freedom-is-coming.png](https://teespring.com/dsd-house-linux-t)
 - [gitpornhub.png](https://teespring.com/dsd-github-alone)
+- gnu-skull.png -> [shirt](https://teespring.com/gnu-not-unix) | [hoodie](https://teespring.com/gnu-not-unix-h)
 - [godfather-tux.png](https://teespring.com/godfather-tux)
 - [have-you-seen-my-tuxzilla.png](https://teespring.com/tuxzilla)
 - [i-love-linux.png](https://teespring.com/i-love-linux-and-my-daddy)
