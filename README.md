@@ -75,6 +75,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - gnu-skull.png -> [shirt](https://teespring.com/gnu-not-unix) | [hoodie](https://teespring.com/gnu-not-unix-h)
 - [godfather-tux.png](https://teespring.com/godfather-tux)
 - [have-you-seen-my-tuxzilla.png](https://teespring.com/tuxzilla)
+- hello-linux.png -> [shirt](https://teespring.com/hello-linux) | [sweatshirt](https://teespring.com/hello-linux-sweatshirt)
 - [i-love-linux.png](https://teespring.com/i-love-linux-and-my-daddy)
 - [joker-poster.png](https://teespring.com/dsd-linux-joker)
 - [just-sudo-it.jpg](https://teespring.com/dsd-just-sudo-it)
