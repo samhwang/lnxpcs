@@ -97,6 +97,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [redpill.png](https://teespring.com/linux-redpill)
 - [respect-linux.png](https://teespring.com/respect-linux)
 - [scream.png](https://teespring.com/tux-scream)
+- [sudo-red.png](https://teespring.com/obey-sudo-red)
 - [thou-shalt-not-kill.png](https://teespring.com/thou-shalt-not-kill-9)
 - [top-100-linux-distros.jpg](https://teespring.com/dsd-i-love-linux)
 - [tux-in-my-dna.png](https://teespring.com/tux-in-dna)
