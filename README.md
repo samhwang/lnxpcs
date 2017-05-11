@@ -107,6 +107,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [tux-text.png](https://teespring.com/linux-tux)
 - [tuxadarity.png](https://teespring.com/tuxadarity)
 - [ulimit-poster.png](https://teespring.com/ulimit-linux)
+- [umbrella.png](https://teespring.com/umbrella-tux)
 - [usufructuarius.png](https://teespring.com/linux-user)
 
 For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
