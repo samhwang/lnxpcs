@@ -94,8 +94,6 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [may-the-foss-be-with-you.png](https://teespring.com/may-the-foss-be-with-you)
 - [my-safeword.png](https://teespring.com/safeword-32)
 - [penguin-skull.png](https://teespring.com/dsd-penguin-skull-quote)
-- [pulp-linux.png](https://teespring.com/linux-pulp)
-- [pulp-linux-cesnored.png](https://teespring.com/linux-pulp-censored)
 - [redpill.png](https://teespring.com/linux-redpill)
 - [respect-linux.png](https://teespring.com/respect-linux)
 - [scream.png](https://teespring.com/tux-scream)
