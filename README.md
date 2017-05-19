@@ -107,6 +107,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [scream.png](https://teespring.com/tux-scream)
 - [snail-tux.png](https://teespring.com/snail-tux)
 - [sudo-red.png](https://teespring.com/obey-sudo-red)
+- [thirty-shades.png](https://teespring.com/thirty-shades)
 - [thou-shalt-not-kill.png](https://teespring.com/thou-shalt-not-kill-9)
 - [top-100-linux-distros.jpg](https://teespring.com/dsd-i-love-linux)
 - [tux-in-my-dna.png](https://teespring.com/tux-in-dna)
