@@ -4,6 +4,13 @@ All artwork is distributed under IDGaF license. It means that you can use provid
 
 If you like something and want it on a T-Shirt or Hoodie, please use the link below. For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
 
+**-cards**
+- [debian-card.png](https://teespring.com/debian-card)
+- [gnu-card.png](https://teespring.com/gnu-card)
+- [kali-card.png](https://teespring.com/kali-card)
+- [sudo-card.png](https://teespring.com/sudo-card)
+- [userdel-card.png](https://teespring.com/userdel-card)
+
 **-distro**
 
 --android
