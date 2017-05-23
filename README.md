@@ -5,7 +5,7 @@ All artwork is distributed under IDGaF license. It means that you can use provid
 If you like something and want it on a T-Shirt or Hoodie, please use the link below. For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
 
 **-cards**
-- [../cards/debian-card.png](https://teespring.com/debian-card)
+- [debian-card.png](https://teespring.com/debian-card)
 - fedora-card.png -> [shirt](https://teespring.com/fedora-card) | [hoodie](https://teespring.com/fedora-card-hoodie)
 - [gnu-card.png](https://teespring.com/gnu-card)
 - [kali-card.png](https://teespring.com/kali-card)
@@ -41,7 +41,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 
 --debian
 
-- [debian-card.png](https://teespring.com/debian-card)
+- [../cards/debian-card.png](https://teespring.com/debian-card)
 - [debian-stable.png](https://teespring.com/debian-stable#pid=2&cid=2397&sid=front)
 - [debian-tribal.png](https://teespring.com/debian-tribal#pid=2&cid=2397&sid=front)
 
