@@ -51,6 +51,10 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [fedora-f-word.png](https://teespring.com/fedora-f-word)
 - [fedora-vintage.png](https://teespring.com/fedora-vintage)
 
+--gentoo
+
+- [install-gentoo.png](https://teespring.com/install-gentoo)
+
 --kali
 
 - [../cards/kali-card.png](https://teespring.com/kali-card)
