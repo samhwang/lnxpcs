@@ -82,6 +82,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [bash-highway-to-shell-v2.png](https://teespring.com/highway-bash)
 - [be-good.png](https://teespring.com/dsd-be-good)
 - [building-kernel.png](https://teespring.com/dsd-building-kernel)
+- [dead-fish.png](https://teespring.com/use-linux)
 - [doctor-tux.png](https://teespring.com/dsd-doctor-tux)
 - [expecto-tux.png](https://teespring.com/expecto-tux)
 - [eye-chart.png](https://teespring.com/dsd-linux-eye-chart)
