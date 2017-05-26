@@ -7,8 +7,11 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 **-cards**
 - [debian-card.png](https://teespring.com/debian-card)
 - fedora-card.png -> [shirt](https://teespring.com/fedora-card) | [hoodie](https://teespring.com/fedora-card-hoodie)
+- [freebsd-card.png](https://teespring.com/nix-card)
 - [gnu-card.png](https://teespring.com/gnu-card)
 - [kali-card.png](https://teespring.com/kali-card)
+- kill-card.png -> [shirt](https://teespring.com/kill-card-black) | [hoodie](https://teespring.com/kill-card-hoodie)
+- [manjaro-card.png](https://teespring.com/manjaro-card)
 - [sudo-card.png](https://teespring.com/sudo-card)
 - [userdel-card.png](https://teespring.com/userdel-card)
 
@@ -51,6 +54,10 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [fedora-f-word.png](https://teespring.com/fedora-f-word)
 - [fedora-vintage.png](https://teespring.com/fedora-vintage)
 
+--freebsd
+
+- [../cards/freebsd-card.png](https://teespring.com/nix-card)
+
 --gentoo
 
 - [install-gentoo.png](https://teespring.com/install-gentoo)
@@ -64,6 +71,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 
 --manjaro
 
+- [../cards/manjaro-card.png](https://teespring.com/manjaro-card)
 - [manjaro-sun.png](https://teespring.com/manjaro-linux-t-shirt)
 
 --opensuse
