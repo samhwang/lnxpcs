@@ -118,6 +118,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [live-free.png](https://teespring.com/dsd-live-free)
 - [may-the-foss-be-with-you.png](https://teespring.com/may-the-foss-be-with-you)
 - [my-safeword.png](https://teespring.com/safeword-32)
+- [no-gui.png](https://teespring.com/shell-yes)
 - [penguin-skull.png](https://teespring.com/dsd-penguin-skull-quote)
 - [redpill.png](https://teespring.com/linux-redpill)
 - [respect-linux.png](https://teespring.com/respect-linux)
