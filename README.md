@@ -24,6 +24,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 --arch
 
 - [arch-anatomy.png](https://teespring.com/dsd-exploded-arch#pid=2&cid=573&sid=front)
+- [bite-arch.png](https://teespring.com/arch-bite)
 - [arch-badge.png](https://teespring.com/arch-badge)
 - [arch-formula.png](https://teespring.com/arch-linux-formula#pid=2&cid=2397&sid=front)
 - [arch-lines.png](https://teespring.com/arch-lines#pid=2&cid=573&sid=front)
