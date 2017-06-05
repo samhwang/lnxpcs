@@ -35,6 +35,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [arch-vintage.png](https://teespring.com/arch-vintage#pid=2&cid=2397&sid=front)
 - [arch-wanted.png](https://teespring.com/arch-linux-wanted)
 - [archlinux-fucking-awesome.png](https://teespring.com/arch-minimalist)
+- [clap-your-hands.png](https://teespring.com/clap-you-hands-arch)
 - [dakr-side-of-arch.png](https://teespring.com/dark-arch)
 - [in-arch-we-trust.png](https://teespring.com/in-arch-we-trust-w)
 - [joan-of-arch.png](https://teespring.com/linux-is-all)
