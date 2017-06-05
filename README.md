@@ -103,6 +103,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [have-you-seen-my-tuxzilla.png](https://teespring.com/tuxzilla)
 - hello-linux.png -> [shirt](https://teespring.com/hello-linux) | [sweatshirt](https://teespring.com/hello-linux-sweatshirt)
 - [i-love-linux.png](https://teespring.com/i-love-linux-and-my-daddy)
+- [im-root.png](https://teespring.com/im-root)
 - [joker-poster.png](https://teespring.com/dsd-linux-joker)
 - [just-sudo-it.jpg](https://teespring.com/dsd-just-sudo-it)
 - [lack-of-linux.png](https://teespring.com/lack-of-linux)
