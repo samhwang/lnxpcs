@@ -141,6 +141,6 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [umbrella.png](https://teespring.com/umbrella-tux)
 - [usufructuarius.png](https://teespring.com/linux-user)
 - [why-so-windows.png](https://teespring.com/why-so-w)
-- [zombie-rpocess.png](https://teespring.com/zombie-process)
+- [zombie-process.png](https://teespring.com/zombie-process)
 
 For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
