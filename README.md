@@ -95,6 +95,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [germany-linux.png](https://teespring.com/germany-the-country-of-linux)
 - [dead-fish.png](https://teespring.com/use-linux)
 - [doctor-tux.png](https://teespring.com/dsd-doctor-tux)
+- [emotions-of-linux.png](https://teespring.com/emotions-of-linux)
 - [expecto-tux.png](https://teespring.com/expecto-tux)
 - [eye-chart.png](https://teespring.com/dsd-linux-eye-chart)
 - [freedom-is-coming.png](https://teespring.com/dsd-house-linux-t)
