@@ -123,6 +123,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [linux-lines.png](https://teespring.com/linux-lines)
 - [linux-moon.png](https://teespring.com/linux-is-like-moon)
 - [linux-wave.png](https://teespring.com/just-linux-lines)
+- [live-free-and-prosper.png](https://teespring.com/live-free-and-prosper)
 - [live-free.png](https://teespring.com/dsd-live-free)
 - [may-the-foss-be-with-you.png](https://teespring.com/may-the-foss-be-with-you)
 - [my-safeword.png](https://teespring.com/safeword-32)
