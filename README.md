@@ -87,6 +87,17 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [i-want-to-ubuntu.png](https://teespring.com/i-want-to-ubuntu)
 - [ubuntu-user.png](https://teespring.com/ubuntu-user)
 
+**-grumpy**
+
+- [grumpy-chmod-777.png](https://teespring.com/grumpy-chmod-777)
+- [grumpy-fork-bomb.png](https://teespring.com/grumpy-fork-bomb)
+- [grumpy-fstab.png](https://teespring.com/grumpy-fstab)
+- [grumpy-kernel-panic.png](https://teespring.com/grumpy-kernel-panic)
+- [grumpy-no-backups.png](https://teespring.com/grumpy-no-backups)
+- [grumpy-root-login.png](https://teespring.com/grumpy-root-login)
+- [grumpy-root-pass.png](https://teespring.com/grumpy-root-pass)
+- [grumpy-windows.png](https://teespring.com/grumpy-windows)
+
 **-non distro**
 
 - [australian-linux-brotherhood.png](https://teespring.com/australian-linux-brotherhood)
