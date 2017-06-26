@@ -113,6 +113,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [eye-chart.png](https://teespring.com/dsd-linux-eye-chart)
 - [freedom-is-coming.png](https://teespring.com/dsd-house-linux-t)
 - [hold-the-windows.png](https://teespring.com/hold-the-w)
+- [i-want-to-leave.png](https://teespring.com/sudo-wanna-leave)
 - [gitpornhub.png](https://teespring.com/dsd-github-alone)
 - gnu-skull.png -> [shirt](https://teespring.com/gnu-not-unix) | [hoodie](https://teespring.com/gnu-not-unix-h)
 - [godfather-tux.png](https://teespring.com/godfather-tux)
