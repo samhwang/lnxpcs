@@ -13,6 +13,7 @@ If you like something and want it on a T-Shirt or Hoodie, please use the link be
 - [kali-card.png](https://teespring.com/kali-card)
 - kill-card.png -> [shirt](https://teespring.com/kill-card-black) | [hoodie](https://teespring.com/kill-card-hoodie)
 - [manjaro-card.png](https://teespring.com/manjaro-card)
+- python-card.png -> [shirt](https://teespring.com/python-card) | [hoodie](https://teespring.com/python-card-hoodie)
 - [sudo-card.png](https://teespring.com/sudo-card)
 - [root-card.png](https://teespring.com/root-card)
 - [userdel-card.png](https://teespring.com/userdel-card)
