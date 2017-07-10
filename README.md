@@ -152,6 +152,7 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 - [scream.png](https://teespring.com/tux-scream)
 - [snail-tux.png](https://teespring.com/snail-tux)
 - [sudo-red.png](https://teespring.com/obey-sudo-red)
+- [supertux.png](https://teespring.com/supertux)
 - [thirty-shades.png](https://teespring.com/thirty-shades)
 - [thou-shalt-not-kill.png](https://teespring.com/thou-shalt-not-kill-9)
 - [top-100-linux-distros.jpg](https://teespring.com/dsd-i-love-linux)
