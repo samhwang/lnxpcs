@@ -18,8 +18,8 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 - [kali-card.png](https://teespring.com/kali-card)
 - kill-card.png -> [shirt](https://teespring.com/kill-card-black) | [hoodie](https://teespring.com/kill-card-hoodie)
 - [manjaro-card.png](https://teespring.com/manjaro-card)
-- python-card.png -> [shirt](https://teespring.com/python-card) | [hoodie](https://teespring.com/python-card-hoodie)
-- [sudo-card.png](https://teespring.com/sudo-card)
+- python-card.png -> [shirt](https://teespring.com/python-card) | [hoodie](https://teespring.com/python-card-hoodie) | [canvas](https://teespring.com/python-card-on-canvas) | [poster](https://teespring.com/python-poster) | [tapestry](https://teespring.com/python-wall-tapestry)
+- [sudo-card.png] -> [shirt](https://teespring.com/sudo-card) | [canvas](https://teespring.com/sudo-linux-print-on-canvas) | [poster](https://teespring.com/sudo-linux-poster) | [tapestry](https://teespring.com/sudo-linux-wall-tapestry)
 - [root-card.png](https://teespring.com/root-card)
 - [userdel-card.png](https://teespring.com/userdel-card)
 
