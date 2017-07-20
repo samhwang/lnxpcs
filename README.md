@@ -10,6 +10,7 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 
 **-cards**
 - [arch-card.png] -> [shirt](https://teespring.com/arch-card) | [hoodie](https://teespring.com/arch-card-hoodie) | [canvas](https://teespring.com/arch-card-canvas) | [poster](https://teespring.com/arch-linux-poster) | [tapestry](https://teespring.com/arch-card-tapestry)
+- [arch-card-blue.png] -> [shirt](https://teespring.com/arch-card-blue) | [hoodie](https://teespring.com/arch-card-blue-hoodie) | [canvas](https://teespring.com/blue-arch-linux-card-on-canvas) | [poster](https://teespring.com/blue-arch-linux-card-poster) | [tapestry](https://teespring.com/blue-arch-linux-tapestry)
 - [cron-card.png](https://teespring.com/cron-card)
 - [debian-card.png](https://teespring.com/debian-card)
 - fedora-card.png -> [shirt](https://teespring.com/fedora-card) | [hoodie](https://teespring.com/fedora-card-hoodie)
