@@ -151,6 +151,7 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 - [may-the-foss-be-with-you.png](https://teespring.com/may-the-foss-be-with-you)
 - [my-safeword.png](https://teespring.com/safeword-32)
 - [no-gui.png](https://teespring.com/shell-yes)
+- [nutshell.png](https://teespring.com/linux-in-a-nutshell)
 - [penguin-skull.png](https://teespring.com/dsd-penguin-skull-quote)
 - [redpill.png](https://teespring.com/linux-redpill)
 - [respect-linux.png](https://teespring.com/respect-linux)
