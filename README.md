@@ -114,6 +114,7 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 - [bash-highway-to-shell-v2.png](https://teespring.com/highway-bash)
 - [be-good.png](https://teespring.com/dsd-be-good)
 - [building-kernel.png](https://teespring.com/dsd-building-kernel)
+- [cosmotux.png](https://teespring.com/cosmotux)
 - [germany-linux.png](https://teespring.com/germany-the-country-of-linux)
 - [gitpornhub.png](https://teespring.com/dsd-github-alone)
 - gnu-skull.png -> [shirt](https://teespring.com/gnu-not-unix) | [hoodie](https://teespring.com/gnu-not-unix-h)
