@@ -136,6 +136,7 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 - [ironthrone.png](https://teespring.com/chowntux)
 - [joker-poster.png](https://teespring.com/dsd-linux-joker)
 - [just-sudo-it.jpg](https://teespring.com/dsd-just-sudo-it)
+- [kernelmom.png](https://teespring.com/linux-kernel)
 - [lack-of-linux.png](https://teespring.com/lack-of-linux)
 - [less-is-more.png](https://teespring.com/less-is-more-linux)
 - [liberty.png](https://teespring.com/my-liberty)
