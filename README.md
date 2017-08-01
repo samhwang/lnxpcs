@@ -9,6 +9,28 @@ For custom requests please create an issue or send us an [email](mailto:jstpcs@y
 If you know the name of image and like and want it on a T-Shirt or Hoodie, please use the link below. For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
 
 **-cards**
+
+--black
+
+- [arch-card-black.png](https://teespring.com/arch-card-black)
+- [cron-card-black.png](https://teespring.com/cron-card-black)
+- [debian-card-black.png](https://teespring.com/debian-card-black)
+- [fedora-card-black.png](https://teespring.com/fedora-card-black)
+- [freebsd-card-black.png](https://teespring.com/freebsd-card-black)
+- [gnu-card-black.png](https://teespring.com/gnu-card-black)
+- [iptables-card-black.png](https://teespring.com/iptables-card-black)
+- [kali-card-black.png](https://teespring.com/kali-car-black)
+- [kill-card-black.png](https://teespring.com/kill-card-black-c)
+- [manjaro-card-black.png](https://teespring.com/manjaro-card-black)
+- [python-card-black.png](https://teespring.com/python-card-black)
+- [root-card-black.png](https://teespring.com/root-card-black)
+- [sudo-card-black.png](https://teespring.com/sudo-card-black)
+- [swift-card-black.png](https://teespring.com/swift-card-black)
+- [tor-card-black.png](https://teespring.com/tor-card-black)
+- [userdel-card-black.png](https://teespring.com/userdel-card-black)
+
+--classic
+
 - [arch-card.png] -> [shirt](https://teespring.com/arch-card) | [hoodie](https://teespring.com/arch-card-hoodie) | [canvas](https://teespring.com/arch-card-canvas) | [poster](https://teespring.com/arch-linux-poster) | [tapestry](https://teespring.com/arch-card-tapestry)
 - [arch-card-blue.png] -> [shirt](https://teespring.com/arch-card-blue) | [hoodie](https://teespring.com/arch-card-blue-hoodie) | [canvas](https://teespring.com/blue-arch-linux-card-on-canvas) | [poster](https://teespring.com/blue-arch-linux-card-poster) | [tapestry](https://teespring.com/blue-arch-linux-tapestry)
 - [cron-card.png](https://teespring.com/cron-card)
@@ -25,6 +47,7 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 - [root-card.png](https://teespring.com/root-card)
 - [tor-card.png](https://teespring.com/tor-card)
 - [userdel-card.png](https://teespring.com/userdel-card)
+
 
 **-distro**
 
