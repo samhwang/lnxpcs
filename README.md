@@ -71,6 +71,7 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 - [archlinux-fucking-awesome.png](https://teespring.com/arch-minimalist)
 - [clap-your-hands.png](https://teespring.com/clap-you-hands-arch)
 - [dakr-side-of-arch.png](https://teespring.com/dark-arch)
+- [fearless.png](https://teespring.com/fearlessarch)
 - [identify-arch.png](https://teespring.com/tell-arch)
 - [in-arch-we-trust.png](https://teespring.com/in-arch-we-trust-w)
 - [joan-of-arch.png](https://teespring.com/linux-is-all)
