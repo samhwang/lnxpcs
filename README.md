@@ -2,11 +2,9 @@
 
 All artwork is distributed under IDGaF license. It means that you can use provided designs for any noncommercial purposes like creation of handout materials for conferences and meet-ups, printing wall posters for home and office and so on, but if you violate the license we will most probably do nothing, because we don't give a fuck.
 
-#### Preview of the images and links to shirts, hoodies, mugs and stickers can be found at [linux.pictures](https://linux.pictures/) website. But, again, we don't mind if you grab the images and print them yourself in the nearest printing service to spread the word about Linux.
-
 For custom requests please create an issue or send us an [email](mailto:jstpcs@ya.ru).
 
-If you know the name of image and like and want it on a T-Shirt or Hoodie, please use the link below. For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
+*If you know the name of image and like and want it on a T-Shirt or Hoodie, please use the link below. For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).*
 
 **-cards**
 
@@ -22,6 +20,7 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 - [kali-card-black.png](https://teespring.com/kali-car-black)
 - [kill-card-black.png](https://teespring.com/kill-card-black-c)
 - [manjaro-card-black.png](https://teespring.com/manjaro-card-black)
+- [php-card-black.png](https://teespring.com/php-card-black)
 - [python-card-black.png](https://teespring.com/python-card-black)
 - [root-card-black.png](https://teespring.com/root-card-black)
 - [sudo-card-black.png](https://teespring.com/sudo-card-black)
@@ -41,6 +40,7 @@ If you know the name of image and like and want it on a T-Shirt or Hoodie, pleas
 - [kali-card.png](https://teespring.com/kali-card)
 - kill-card.png -> [shirt](https://teespring.com/kill-card-black) | [hoodie](https://teespring.com/kill-card-hoodie)
 - [manjaro-card.png](https://teespring.com/manjaro-card)
+- [php-card.png](https://teespring.com/php-card)
 - python-card.png -> [shirt](https://teespring.com/python-card) | [hoodie](https://teespring.com/python-card-hoodie) | [canvas](https://teespring.com/python-card-on-canvas) | [poster](https://teespring.com/python-poster) | [tapestry](https://teespring.com/python-wall-tapestry)
 - [swift-card.png] -> [shirt, poster, wall tapestry, mug, pillow](https://teespring.com/swift-card) | [hoodie](https://teespring.com/swift-card-hoodie) | [woman shirts](https://teespring.com/swift-card-woman) | [sticker](https://teespring.com/swift-card-sticker)
 - [sudo-card.png] -> [shirt](https://teespring.com/sudo-card) | [canvas](https://teespring.com/sudo-linux-print-on-canvas) | [poster](https://teespring.com/sudo-linux-poster) | [tapestry](https://teespring.com/sudo-linux-wall-tapestry)
