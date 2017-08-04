@@ -103,6 +103,7 @@ For custom requests please create an issue or send us an [email](mailto:jstpcs@y
 --kali
 
 - [../cards/kali-card.png](https://teespring.com/kali-card)
+- [house-kali.png](https://teespring.com/kali-linux-print)
 - [kali-dragon.png](https://teespring.com/kali-dragon)
 - [kali-myth.png](https://teespring.com/kali-linux-security)
 - [kali-obey.png](https://teespring.com/kali-obey)
