@@ -169,6 +169,7 @@ For custom requests please create an issue or send us an [email](mailto:jstpcs@y
 - [linux-fire.png](https://teespring.com/linux-fire)
 - [linux-friends.png](https://teespring.com/linux-friends)
 - [linux-guides-me.png](https://teespring.com/linux-heart)
+- [linux-infected.png](https://teespring.com/linux-infected)
 - [linux-is-addictive.png](https://teespring.com/linux-is-addictive)
 - [linux-is-coming.png](https://teespring.com/linux-is-coming)
 - [linux-is-the-key.png](https://teespring.com/linux-the-key)
