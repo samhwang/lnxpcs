@@ -22,6 +22,7 @@ For custom requests please create an issue or send us an [email](mailto:jstpcs@y
 - [manjaro-card-black.png](https://teespring.com/manjaro-card-black)
 - [php-card-black.png](https://teespring.com/php-card-black)
 - [python-card-black.png](https://teespring.com/python-card-black)
+- [solus-card-black.png](https://teespring.com/solus-card-black)
 - [root-card-black.png](https://teespring.com/root-card-black)
 - [sudo-card-black.png](https://teespring.com/sudo-card-black)
 - [swift-card-black.png](https://teespring.com/swift-card-black)
@@ -43,6 +44,7 @@ For custom requests please create an issue or send us an [email](mailto:jstpcs@y
 - [php-card.png](https://teespring.com/php-card)
 - python-card.png -> [shirt](https://teespring.com/python-card) | [hoodie](https://teespring.com/python-card-hoodie) | [canvas](https://teespring.com/python-card-on-canvas) | [poster](https://teespring.com/python-poster) | [tapestry](https://teespring.com/python-wall-tapestry)
 - [swift-card.png] -> [shirt, poster, wall tapestry, mug, pillow](https://teespring.com/swift-card) | [hoodie](https://teespring.com/swift-card-hoodie) | [woman shirts](https://teespring.com/swift-card-woman) | [sticker](https://teespring.com/swift-card-sticker)
+- [solus-card.png](https://teespring.com/solus-card)
 - [sudo-card.png] -> [shirt](https://teespring.com/sudo-card) | [canvas](https://teespring.com/sudo-linux-print-on-canvas) | [poster](https://teespring.com/sudo-linux-poster) | [tapestry](https://teespring.com/sudo-linux-wall-tapestry)
 - [root-card.png](https://teespring.com/root-card)
 - [tor-card.png](https://teespring.com/tor-card)
@@ -116,6 +118,10 @@ For custom requests please create an issue or send us an [email](mailto:jstpcs@y
 --opensuse
 
 - [opensuse.png](https://teespring.com/opensuse)
+
+--solus
+
+- [../cards/solus-card.png](https://teespring.com/solus-card)
 
 --ubuntu
 
