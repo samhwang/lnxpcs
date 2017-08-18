@@ -182,6 +182,7 @@ For custom requests please create an issue or send us an [email](mailto:jstpcs@y
 - [linux-lines.png](https://teespring.com/linux-lines)
 - [linux-moon.png](https://teespring.com/linux-is-like-moon)
 - [linux-n1.png](https://teespring.com/linux-n1)
+- [linux-rocks.png](https://teespring.com/linux-rocks)
 - [linux-wave.png](https://teespring.com/just-linux-lines)
 - [live-free-and-prosper.png](https://teespring.com/live-free-and-prosper)
 - [live-free.png](https://teespring.com/dsd-live-free)
