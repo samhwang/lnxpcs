@@ -8,4 +8,4 @@ all images are distributed under idgaf license. it means that you can use provid
 
 for custom requests please create an issue or send us an [email](mailto:jstpcs@protonmail.com).
 
-# preview of the images with search is available on **[linux.pictures](https://linux.pictures)** website.
+# the links to to shirts and preview of all images with search is available on **[linux.pictures](https://linux.pictures)** website.
