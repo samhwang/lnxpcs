@@ -11,7 +11,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 # the links to to shirts and preview of all images with search is available on **[linux.pictures](https://linux.pictures)** website
 
 
-### if you know the filename, you can order a shirt using one of these links
+### if you know the filename, you can also order a shirt using one of these links
 
 **-cards**
 
