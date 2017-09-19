@@ -195,6 +195,8 @@ For custom requests please create an issue or send us an [email](mailto:jstpcs@y
 - [no-gui.png](https://teespring.com/shell-yes)
 - [nutshell.png](https://teespring.com/linux-in-a-nutshell)
 - [penguin-skull.png](https://teespring.com/dsd-penguin-skull-quote)
+- [periodic-table-black.png](https://teespring.com/periodic-table-black)
+- [periodic-table-color.png](https://teespring.com/periodic-table-color)
 - [redpill.png](https://teespring.com/linux-redpill)
 - [respect-linux.png](https://teespring.com/respect-linux)
 - [scream.png](https://teespring.com/tux-scream)
