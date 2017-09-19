@@ -1,10 +1,17 @@
 # lnxpcs - GNU/Linux/OpenSource related pictures
 
-All artwork is distributed under IDGaF license. It means that you can use provided designs for any noncommercial purposes like creation of handout materials for conferences and meet-ups, printing wall posters for home and office and so on, but if you violate the license we will most probably do nothing, because we don't give a fuck.
+## license
 
-For custom requests please create an issue or send us an [email](mailto:jstpcs@ya.ru).
+all images are distributed under idgaf license. it means that you can use provided designs for any noncommercial purposes like creation of handout materials for conferences and meet-ups, printing wall posters for home and office and so on, but if you violate the license we will most probably do nothing, because we don't give a fuck.
 
-*If you know the name of image and like and want it on a T-Shirt or Hoodie, please use the link below. For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).*
+## custom requests
+
+for custom requests please create an issue or send us an [email](mailto:jstpcs@protonmail.com).
+
+# the links to shirts and preview of all images with search is available on **[linux.pictures](https://linux.pictures)** website
+
+
+### if you know the filename, you can also order a shirt using one of these links
 
 **-cards**
 
@@ -216,5 +223,3 @@ For custom requests please create an issue or send us an [email](mailto:jstpcs@y
 - [usufructuarius.png](https://teespring.com/linux-user)
 - [why-so-windows.png](https://teespring.com/why-so-w)
 - [zombie-process.png](https://teespring.com/zombie-process)
-
-For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
