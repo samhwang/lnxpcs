@@ -189,6 +189,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [linux-infected.png](https://teespring.com/linux-infected)
 - [linux-is-addictive.png](https://teespring.com/linux-is-addictive)
 - [linux-is-coming.png](https://teespring.com/linux-is-coming)
+- [linux-is-power.png] -> [shirt us store](https://teespring.com/linux-is-power) | [shirt eu store](https://teespring.com/linux-is-power) | [hoodie us store](https://teespring.com/linux-is-power-hoodie) | [hoodie eu store](https://teespring.com/linux-is-power-hoodie-eu)
 - [linux-is-the-key.png](https://teespring.com/linux-the-key)
 - [linux-lines.png](https://teespring.com/linux-lines)
 - [linux-moon.png](https://teespring.com/linux-is-like-moon)
