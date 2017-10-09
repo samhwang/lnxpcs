@@ -162,6 +162,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [gitpornhub.png](https://teespring.com/dsd-github-alone)
 - gnu-skull.png -> [shirt](https://teespring.com/gnu-not-unix) | [hoodie](https://teespring.com/gnu-not-unix-h)
 - [godfather-tux.png](https://teespring.com/godfather-tux)
+- [ddrandom.png] -> [shirt](https://teespring.com/ddrandom) | [hoodie](https://teespring.com/ddrandom-hoodie)
 - [dead-fish.png](https://teespring.com/use-linux)
 - [doctor-tux.png](https://teespring.com/dsd-doctor-tux)
 - [emotions-of-linux.png](https://teespring.com/emotions-of-linux)
