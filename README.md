@@ -13,6 +13,22 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 
 ### if you know the filename, you can also order a shirt using one of these links
 
+
+**-calendars**
+
+--2018
+
+---eu
+
+- [hexadecimal-python-2018-eu-black.png](https://teespring.com/python-calendar-2018-eu)
+- [hexadecimal-python-2018-eu-white.png](https://teespring.com/white-python-calendar-2018-eu)
+
+---us
+
+- [hexadecimal-python-2018-us-black.png](https://teespring.com/python-hexadecimal-calendar-20)
+- [hexadecimal-python-2018-us-white.png](https://teespring.com/white-python-hex-calendar-us)
+
+
 **-cards**
 
 --black
