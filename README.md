@@ -142,6 +142,8 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [kali-dragon.png](https://teespring.com/kali-dragon)
 - [kali-myth.png](https://teespring.com/kali-linux-security)
 - [kali-obey.png](https://teespring.com/kali-obey)
+- [kali-play.png] -> shirt [us](https://teespring.com/kali-play-us)/[eu](https://teespring.com/kali-play-eu) | [hoodie](https://teespring.com/kali-play-us#pid=212&cid=5819&sid=front)
+
 
 --manjaro
 
