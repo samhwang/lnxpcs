@@ -120,6 +120,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [../cards/debian-card.png](https://teespring.com/debian-card)
 - [debian-stable.png](https://teespring.com/debian-stable#pid=2&cid=2397&sid=front)
 - [debian-tribal.png](https://teespring.com/debian-tribal#pid=2&cid=2397&sid=front)
+- [starry.png](https://teespring.com/debian-starry-night)
 
 --fedora
 
