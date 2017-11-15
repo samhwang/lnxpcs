@@ -249,5 +249,6 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [ulimit-poster.png](https://teespring.com/ulimit-linux)
 - [umbrella.png](https://teespring.com/umbrella-tux)
 - [usufructuarius.png](https://teespring.com/linux-user)
+- [vim-shortcut.png] -> shirt [us](https://teespring.com/vim-exit-us)/[eu](https://teespring.com/vim-exit-eu) | hoodie [us](https://teespring.com/vim-exit-us#pid=212&cid=5819&sid=front)/[eu](https://teespring.com/vim-exit-eu#pid=377&cid=100069&sid=front)
 - [why-so-windows.png](https://teespring.com/why-so-w)
 - [zombie-process.png](https://teespring.com/zombie-process)
