@@ -224,6 +224,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [linux-moon.png](https://teespring.com/linux-is-like-moon)
 - [linux-n1.png](https://teespring.com/linux-n1)
 - [linux-rocks.png](https://teespring.com/linux-rocks)
+- [linux-user.png](https://teespring.com/linuxhead)
 - [linux-wave.png](https://teespring.com/just-linux-lines)
 - [live-free-and-prosper.png](https://teespring.com/live-free-and-prosper)
 - [live-free.png](https://teespring.com/dsd-live-free)
