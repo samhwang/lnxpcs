@@ -70,7 +70,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [gcc-card.png] -> shirt [us](https://teespring.com/gcc-card)/[eu](https://teespring.com/gcc-card-eu) | hoodie [us](https://teespring.com/gcc-card-hoodie)/[eu](https://teespring.com/gcc-card-hoodie-eu)
 - [gnu-card.png](https://teespring.com/gnu-card)
 - [gnu-linux-card.png] -> [shirt](https://teespring.com/gnu-linux-card-colored) | [hoodie](https://teespring.com/gnu-linux-card-hoodie-colored)
-- [golang-card-black.png] -> shirt [us](https://teespring.com/go-card-white-us)/[eu](https://teespring.com/go-card-white-eu) | hoodie [us](https://teespring.com/go-card-white-us#pid=212&cid=5822&sid=front)/[eu](https://teespring.com/go-card-white-eu#pid=377&cid=100058&sid=front) | [poster](https://teespring.com/de/go-card-white-us?39yno#pid=624&cid=102379&sid=front)
+- [golang-card.png] -> shirt [us](https://teespring.com/go-card-white-us)/[eu](https://teespring.com/go-card-white-eu) | hoodie [us](https://teespring.com/go-card-white-us#pid=212&cid=5822&sid=front)/[eu](https://teespring.com/go-card-white-eu#pid=377&cid=100058&sid=front) | [poster](https://teespring.com/de/go-card-white-us?39yno#pid=624&cid=102379&sid=front)
 - [kali-card.png](https://teespring.com/kali-card)
 - kill-card.png -> [shirt](https://teespring.com/kill-card-black) | [hoodie](https://teespring.com/kill-card-hoodie)
 - [linuxmasterrace-card.png](https://teespring.com/lmr-card)
