@@ -185,6 +185,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [be-good.png](https://teespring.com/dsd-be-good)
 - [building-kernel.png](https://teespring.com/dsd-building-kernel)
 - [cosmotux.png](https://teespring.com/cosmotux)
+- [change-permissions.png](https://teespring.com/change-permissions)
 - [dotfiles.png](https://teespring.com/dotfiles)
 - [germany-linux.png](https://teespring.com/germany-the-country-of-linux)
 - [githubopen.png](https://teespring.com/github-open)
