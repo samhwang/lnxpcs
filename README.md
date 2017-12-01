@@ -233,6 +233,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [may-the-foss-be-with-you.png](https://teespring.com/may-the-foss-be-with-you)
 - [my-safeword.png](https://teespring.com/safeword-32)
 - [no-gui.png](https://teespring.com/shell-yes)
+- [own-boss.png](https://teespring.com/own-boss)
 - [nutshell.png](https://teespring.com/linux-in-a-nutshell)
 - [penguin-skull.png](https://teespring.com/dsd-penguin-skull-quote)
 - [periodic-table-black.png](https://teespring.com/periodic-table-black-v2)
