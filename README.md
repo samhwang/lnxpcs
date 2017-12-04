@@ -40,7 +40,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [debian-card-black.png](https://teespring.com/debian-card-black)
 - [fedora-card-black.png](https://teespring.com/fedora-card-black)
 - [freebsd-card-black.png](https://teespring.com/freebsd-card-black)
-- [cc-card-black.png -> shirt [us](https://teespring.com/gcc-card-dark)/[eu](https://teespring.com/gcc-card-dark-eu) | hoodie [us](https://teespring.com/gcc-card-dark-hoodie)/[eu](https://teespring.com/gcc-card-dark-hoodie-eu) 
+- gcc-card-black.png -> shirt [us](https://teespring.com/gcc-card-dark)/[eu](https://teespring.com/gcc-card-dark-eu) | hoodie [us](https://teespring.com/gcc-card-dark-hoodie)/[eu](https://teespring.com/gcc-card-dark-hoodie-eu) 
 - [gnu-card-black.png](https://teespring.com/gnu-card-black)
 - gnu-linux-card-black.png -> [shirt](https://teespring.com/gnu-linux-card-dark) | [hoodie](https://teespring.com/gnu-linux-card-hoodie-black)
 - golang-card-black.png -> shirt [us](https://teespring.com/go-card-black-us)/[eu](https://teespring.com/go-card-dark-eu) | hoodie [us](https://teespring.com/go-card-black-us#pid=212&cid=5819&sid=front)/[eu](https://teespring.com/go-card-dark-eu#pid=377&cid=100069&sid=front) | [poster](https://teespring.com/go-card-black-us#pid=624&cid=102380&sid=front)
@@ -63,7 +63,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 --classic
 
 - arch-card.png -> [shirt](https://teespring.com/arch-card) | [hoodie](https://teespring.com/arch-card-hoodie) | [canvas](https://teespring.com/arch-card-canvas) | [poster](https://teespring.com/arch-linux-poster) | [tapestry](https://teespring.com/arch-card-tapestry)
-- [arch-card-blue.png] -> [shirt](https://teespring.com/arch-card-blue) | [hoodie](https://teespring.com/arch-card-blue-hoodie) | [canvas](https://teespring.com/blue-arch-linux-card-on-canvas) | [poster](https://teespring.com/blue-arch-linux-card-poster) | [tapestry](https://teespring.com/blue-arch-linux-tapestry)
+- arch-card-blue.png -> [shirt](https://teespring.com/arch-card-blue) | [hoodie](https://teespring.com/arch-card-blue-hoodie) | [canvas](https://teespring.com/blue-arch-linux-card-on-canvas) | [poster](https://teespring.com/blue-arch-linux-card-poster) | [tapestry](https://teespring.com/blue-arch-linux-tapestry)
 - [cron-card.png](https://teespring.com/cron-card)
 - [debian-card.png](https://teespring.com/debian-card)
 - fedora-card.png -> [shirt](https://teespring.com/fedora-card) | [hoodie](https://teespring.com/fedora-card-hoodie)
