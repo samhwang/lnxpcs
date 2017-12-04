@@ -40,10 +40,10 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [debian-card-black.png](https://teespring.com/debian-card-black)
 - [fedora-card-black.png](https://teespring.com/fedora-card-black)
 - [freebsd-card-black.png](https://teespring.com/freebsd-card-black)
-- [gcc-card-black.png] -> shirt [us](https://teespring.com/gcc-card-dark)/[eu](https://teespring.com/gcc-card-dark-eu) | hoodie [us](https://teespring.com/gcc-card-dark-hoodie)/[eu](https://teespring.com/gcc-card-dark-hoodie-eu) 
+- [cc-card-black.png -> shirt [us](https://teespring.com/gcc-card-dark)/[eu](https://teespring.com/gcc-card-dark-eu) | hoodie [us](https://teespring.com/gcc-card-dark-hoodie)/[eu](https://teespring.com/gcc-card-dark-hoodie-eu) 
 - [gnu-card-black.png](https://teespring.com/gnu-card-black)
-- [gnu-linux-card-black.png] -> [shirt](https://teespring.com/gnu-linux-card-dark) | [hoodie](https://teespring.com/gnu-linux-card-hoodie-black)
-- [golang-card-black.png] -> shirt [us](https://teespring.com/go-card-black-us)/[eu](https://teespring.com/go-card-dark-eu) | hoodie [us](https://teespring.com/go-card-black-us#pid=212&cid=5819&sid=front)/[eu](https://teespring.com/go-card-dark-eu#pid=377&cid=100069&sid=front) | [poster](https://teespring.com/go-card-black-us#pid=624&cid=102380&sid=front)
+- gnu-linux-card-black.png -> [shirt](https://teespring.com/gnu-linux-card-dark) | [hoodie](https://teespring.com/gnu-linux-card-hoodie-black)
+- golang-card-black.png -> shirt [us](https://teespring.com/go-card-black-us)/[eu](https://teespring.com/go-card-dark-eu) | hoodie [us](https://teespring.com/go-card-black-us#pid=212&cid=5819&sid=front)/[eu](https://teespring.com/go-card-dark-eu#pid=377&cid=100069&sid=front) | [poster](https://teespring.com/go-card-black-us#pid=624&cid=102380&sid=front)
 - [iptables-card-black.png](https://teespring.com/iptables-card-black)
 - [kali-card-black.png](https://teespring.com/kali-car-black)
 - [kill-card-black.png](https://teespring.com/kill-card-black-c)
@@ -53,36 +53,38 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [python-card-black.png](https://teespring.com/python-card-black)
 - [solus-card-black.png](https://teespring.com/solus-card-black)
 - [root-card-black.png](https://teespring.com/root-card-black)
-- [su-card-black.png] -> shirt [us](https://teespring.com/su-card-black-us)/[eu](https://teespring.com/su-card-black-eu), hoodie [us](https://teespring.com/su-card-hoodie-black-us)/[eu](https://teespring.com/su-card-black-hoodie-eu), [poster](https://teespring.com/de/su-card-black-us?fh4r0#pid=624&cid=102380&sid=front)
+- su-card-black.png -> shirt [us](https://teespring.com/su-card-black-us)/[eu](https://teespring.com/su-card-black-eu), hoodie [us](https://teespring.com/su-card-hoodie-black-us)/[eu](https://teespring.com/su-card-black-hoodie-eu), [poster](https://teespring.com/de/su-card-black-us?fh4r0#pid=624&cid=102380&sid=front)
 - [sudo-card-black.png](https://teespring.com/sudo-card-black)
 - [swift-card-black.png](https://teespring.com/swift-card-black)
 - [tor-card-black.png](https://teespring.com/tor-card-black)
+- ubuntu-card-black.png -> shirt [us](https://teespring.com/ubuntu-card-dark-us)/[eu](https://teespring.com/ubuntu-card-dark-eu) | hoodie [us](https://teespring.com/ubuntu-card-dark-us#pid=212&cid=5819&sid=front)/[eu](https://teespring.com/ubuntu-card-dark-eu#pid=377&cid=100069&sid=front)
 - [userdel-card-black.png](https://teespring.com/userdel-card-black)
 
 --classic
 
-- [arch-card.png] -> [shirt](https://teespring.com/arch-card) | [hoodie](https://teespring.com/arch-card-hoodie) | [canvas](https://teespring.com/arch-card-canvas) | [poster](https://teespring.com/arch-linux-poster) | [tapestry](https://teespring.com/arch-card-tapestry)
+- arch-card.png -> [shirt](https://teespring.com/arch-card) | [hoodie](https://teespring.com/arch-card-hoodie) | [canvas](https://teespring.com/arch-card-canvas) | [poster](https://teespring.com/arch-linux-poster) | [tapestry](https://teespring.com/arch-card-tapestry)
 - [arch-card-blue.png] -> [shirt](https://teespring.com/arch-card-blue) | [hoodie](https://teespring.com/arch-card-blue-hoodie) | [canvas](https://teespring.com/blue-arch-linux-card-on-canvas) | [poster](https://teespring.com/blue-arch-linux-card-poster) | [tapestry](https://teespring.com/blue-arch-linux-tapestry)
 - [cron-card.png](https://teespring.com/cron-card)
 - [debian-card.png](https://teespring.com/debian-card)
 - fedora-card.png -> [shirt](https://teespring.com/fedora-card) | [hoodie](https://teespring.com/fedora-card-hoodie)
 - [freebsd-card.png](https://teespring.com/nix-card)
-- [gcc-card.png] -> shirt [us](https://teespring.com/gcc-card)/[eu](https://teespring.com/gcc-card-eu) | hoodie [us](https://teespring.com/gcc-card-hoodie)/[eu](https://teespring.com/gcc-card-hoodie-eu)
+- gcc-card.png -> shirt [us](https://teespring.com/gcc-card)/[eu](https://teespring.com/gcc-card-eu) | hoodie [us](https://teespring.com/gcc-card-hoodie)/[eu](https://teespring.com/gcc-card-hoodie-eu)
 - [gnu-card.png](https://teespring.com/gnu-card)
-- [gnu-linux-card.png] -> [shirt](https://teespring.com/gnu-linux-card-colored) | [hoodie](https://teespring.com/gnu-linux-card-hoodie-colored)
-- [golang-card.png] -> shirt [us](https://teespring.com/go-card-white-us)/[eu](https://teespring.com/go-card-white-eu) | hoodie [us](https://teespring.com/go-card-white-us#pid=212&cid=5822&sid=front)/[eu](https://teespring.com/go-card-white-eu#pid=377&cid=100058&sid=front) | [poster](https://teespring.com/de/go-card-white-us?39yno#pid=624&cid=102379&sid=front)
+- gnu-linux-card.png -> [shirt](https://teespring.com/gnu-linux-card-colored) | [hoodie](https://teespring.com/gnu-linux-card-hoodie-colored)
+- golang-card.png -> shirt [us](https://teespring.com/go-card-white-us)/[eu](https://teespring.com/go-card-white-eu) | hoodie [us](https://teespring.com/go-card-white-us#pid=212&cid=5822&sid=front)/[eu](https://teespring.com/go-card-white-eu#pid=377&cid=100058&sid=front) | [poster](https://teespring.com/de/go-card-white-us?39yno#pid=624&cid=102379&sid=front)
 - [kali-card.png](https://teespring.com/kali-card)
 - kill-card.png -> [shirt](https://teespring.com/kill-card-black) | [hoodie](https://teespring.com/kill-card-hoodie)
 - [linuxmasterrace-card.png](https://teespring.com/lmr-card)
 - [manjaro-card.png](https://teespring.com/manjaro-card)
 - [php-card.png](https://teespring.com/php-card)
 - python-card.png -> [shirt](https://teespring.com/python-card) | [hoodie](https://teespring.com/python-card-hoodie) | [canvas](https://teespring.com/python-card-on-canvas) | [poster](https://teespring.com/python-poster) | [tapestry](https://teespring.com/python-wall-tapestry)
-- [swift-card.png] -> [shirt, poster, wall tapestry, mug, pillow](https://teespring.com/swift-card) | [hoodie](https://teespring.com/swift-card-hoodie) | [woman shirts](https://teespring.com/swift-card-woman) | [sticker](https://teespring.com/swift-card-sticker)
+- swift-card.png -> [shirt, poster, wall tapestry, mug, pillow](https://teespring.com/swift-card) | [hoodie](https://teespring.com/swift-card-hoodie) | [woman shirts](https://teespring.com/swift-card-woman) | [sticker](https://teespring.com/swift-card-sticker)
 - [solus-card.png](https://teespring.com/solus-card)
-- [su-card.png] -> shirt [us](https://teespring.com/su-card-white-us)/[eu](https://teespring.com/su-card-white-eu), hoodie [us](https://teespring.com/su-card-white-hoodie-us)/[eu](https://teespring.com/su-card-white-hoodie-eu), [poster](https://teespring.com/su-card-white-us?w8x7z#pid=624&cid=102379&sid=front)
-- [sudo-card.png] -> [shirt](https://teespring.com/sudo-card) | [canvas](https://teespring.com/sudo-linux-print-on-canvas) | [poster](https://teespring.com/sudo-linux-poster) | [tapestry](https://teespring.com/sudo-linux-wall-tapestry)
+- su-card.png -> shirt [us](https://teespring.com/su-card-white-us)/[eu](https://teespring.com/su-card-white-eu), hoodie [us](https://teespring.com/su-card-white-hoodie-us)/[eu](https://teespring.com/su-card-white-hoodie-eu), [poster](https://teespring.com/su-card-white-us?w8x7z#pid=624&cid=102379&sid=front)
+- sudo-card.png -> [shirt](https://teespring.com/sudo-card) | [canvas](https://teespring.com/sudo-linux-print-on-canvas) | [poster](https://teespring.com/sudo-linux-poster) | [tapestry](https://teespring.com/sudo-linux-wall-tapestry)
 - [root-card.png](https://teespring.com/root-card)
 - [tor-card.png](https://teespring.com/tor-card)
+- ubuntu-card.png -> shirt [us](https://teespring.com/ubuntu-card-white-us) / [eu](https://teespring.com/ubuntu-card-white-eu) | hoodie [us](https://teespring.com/ubuntu-card-white-us#pid=212&cid=5822&sid=front)/[eu](https://teespring.com/ubuntu-card-white-eu#pid=377&cid=100058&sid=front) | [poster](https://teespring.com/ubuntu-card-white-us?xo5ln#pid=623&cid=102381&sid=front)
 - [userdel-card.png](https://teespring.com/userdel-card)
 
 
@@ -97,6 +99,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [arch-anatomy.png](https://teespring.com/dsd-exploded-arch#pid=2&cid=573&sid=front)
 - [bite-arch.png](https://teespring.com/arch-bite)
 - [arch-badge.png](https://teespring.com/arch-badge)
+- arch-card.png -> [shirt](https://teespring.com/arch-card) | [hoodie](https://teespring.com/arch-card-hoodie) | [canvas](https://teespring.com/arch-card-canvas) | [poster](https://teespring.com/arch-linux-poster) | [tapestry](https://teespring.com/arch-card-tapestry)
 - [arch-formula.png](https://teespring.com/arch-linux-formula#pid=2&cid=2397&sid=front)
 - [arch-lines.png](https://teespring.com/arch-lines#pid=2&cid=573&sid=front)
 - [arch-linux-n1.png](https://teespring.com/arch-linux-n1#pid=2&cid=2397&sid=front)
@@ -119,20 +122,20 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 
 --debian
 
-- [../cards/debian-card.png](https://teespring.com/debian-card)
+- [../cards/classic/debian-card.png](https://teespring.com/debian-card)
 - [debian-stable.png](https://teespring.com/debian-stable#pid=2&cid=2397&sid=front)
 - [debian-tribal.png](https://teespring.com/debian-tribal#pid=2&cid=2397&sid=front)
 - [starry.png](https://teespring.com/debian-starry-night)
 
 --fedora
 
-- ../cards/fedora-card.png -> [shirt](https://teespring.com/fedora-card) | [hoodie](https://teespring.com/fedora-card-hoodie)
+- ../cards/classic/fedora-card.png -> [shirt](https://teespring.com/fedora-card) | [hoodie](https://teespring.com/fedora-card-hoodie)
 - [fedora-f-word.png](https://teespring.com/fedora-f-word)
 - [fedora-vintage.png](https://teespring.com/fedora-vintage)
 
 --freebsd
 
-- [../cards/freebsd-card.png](https://teespring.com/nix-card)
+- [../cards/classic//freebsd-card.png](https://teespring.com/nix-card)
 
 --gentoo
 
@@ -140,7 +143,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 
 --kali
 
-- [../cards/kali-card.png](https://teespring.com/kali-card)
+- [../cards/classic/kali-card.png](https://teespring.com/kali-card)
 - [house-kali.png](https://teespring.com/kali-linux-print)
 - [kali-dragon.png](https://teespring.com/kali-dragon)
 - [kali-myth.png](https://teespring.com/kali-linux-security)
@@ -150,7 +153,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 
 --manjaro
 
-- [../cards/manjaro-card.png](https://teespring.com/manjaro-card)
+- [../cards/classic//manjaro-card.png](https://teespring.com/manjaro-card)
 - [manjaro-sun.png](https://teespring.com/manjaro-linux-t-shirt)
 
 --opensuse
@@ -159,12 +162,15 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 
 --solus
 
-- [../cards/solus-card.png](https://teespring.com/solus-card)
+- [../cards/classic/solus-card.png](https://teespring.com/solus-card)
 
 --ubuntu
 
 - [i-want-to-ubuntu.png](https://teespring.com/i-want-to-ubuntu)
 - [ubuntu-user.png](https://teespring.com/ubuntu-user)
+- ../cards/black/ubuntu-card-black.png -> shirt [us](https://teespring.com/ubuntu-card-dark-us)/[eu](https://teespring.com/ubuntu-card-dark-eu) | hoodie [us](https://teespring.com/ubuntu-card-dark-us#pid=212&cid=5819&sid=front)/[eu](https://teespring.com/ubuntu-card-dark-eu#pid=377&cid=100069&sid=front)
+- ../cards/classic/ubuntu-card.png -> shirt [us](https://teespring.com/ubuntu-card-white-us) / [eu](https://teespring.com/ubuntu-card-white-eu) | hoodie [us](https://teespring.com/ubuntu-card-white-us#pid=212&cid=5822&sid=front)/[eu](https://teespring.com/ubuntu-card-white-eu#pid=377&cid=100058&sid=front) | [poster](https://teespring.com/ubuntu-card-white-us?xo5ln#pid=623&cid=102381&sid=front)
+
 
 **-grumpy**
 
