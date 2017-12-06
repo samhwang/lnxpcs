@@ -26,7 +26,7 @@
 
 set -e
 
-usage() { 
+usage() {
   cat << EOH
 Generate wallpapers to a specified size, given a base picture
 
@@ -88,7 +88,7 @@ shift 2
   cat -
 else
   for _file in "$@"; do
-    printf "%s\n" "$_file"
+    printf '%s\n' "$_file"
   done
 fi } |
 while IFS= read -r inpfile; do
