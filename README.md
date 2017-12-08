@@ -231,6 +231,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [linux-wave.png](https://teespring.com/just-linux-lines)
 - [live-free-and-prosper.png](https://teespring.com/live-free-and-prosper)
 - [live-free.png](https://teespring.com/dsd-live-free)
+- [may-the-floss.png](https://teespring.com/may-the-floss)
 - [may-the-foss-be-with-you.png](https://teespring.com/may-the-foss-be-with-you)
 - [my-safeword.png](https://teespring.com/safeword-32)
 - [no-gui.png](https://teespring.com/shell-yes)
