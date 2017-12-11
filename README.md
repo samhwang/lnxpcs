@@ -23,7 +23,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - hexadecimal linux calendar 2018 -> [black](https://teespring.com/black-linux-hex-calendar-2018)/[white](https://teespring.com/white-linux-hex-calendar-2018)
 - [hexadecimal-python-2018-eu-black.png](https://teespring.com/python-calendar-2018-eu)
 - [hexadecimal-python-2018-eu-white.png](https://teespring.com/white-python-calendar-2018-eu)
-- [hexadecimal-ubuntu-eu-dark.png](https://teespring.com/de/ubuntu-hex-calendar-2018-us)
+- [hexadecimal-ubuntu-eu-dark.png](https://teespring.com/de/ubuntu-hex-calendar-2018-eu)
 
 ---us
 
@@ -31,7 +31,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - hexadecimal linux calendar 2018 -> [black](https://teespring.com/dark-linux-hex-calendar-2018)/[white](https://teespring.com/white-linux-hex-calendar-us)
 - [hexadecimal-python-2018-us-black.png](https://teespring.com/python-hexadecimal-calendar-20)
 - [hexadecimal-python-2018-us-white.png](https://teespring.com/white-python-hex-calendar-us)
-- [hexadecimal-ubuntu-us-dark](https://teespring.com/de/ubuntu-hex-calendar-2018-eu)
+- [hexadecimal-ubuntu-us-dark.png](https://teespring.com/de/ubuntu-hex-calendar-2018-us)
 
 
 **-cards**
