@@ -54,6 +54,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [kill-card-black.png](https://teespring.com/kill-card-black-c)
 - [linuxmasterrace-card-black.png](https://teespring.com/lmr-card-black-c)
 - [manjaro-card-black.png](https://teespring.com/manjaro-card-black)
+- mint-card-black.png -> shirt [us](https://teespring.com/mint-card-dark-us)/[eu](https://teespring.com/mint-card-dark-eu) | hoodie [us](https://teespring.com/mint-card-dark-us#pid=212&cid=5819&sid=front)/[eu](https://teespring.com/mint-card-dark-eu#pid=377&cid=100069&sid=front)
 - [php-card-black.png](https://teespring.com/php-card-black)
 - [python-card-black.png](https://teespring.com/python-card-black)
 - [solus-card-black.png](https://teespring.com/solus-card-black)
@@ -81,6 +82,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - kill-card.png -> [shirt](https://teespring.com/kill-card-black) | [hoodie](https://teespring.com/kill-card-hoodie)
 - [linuxmasterrace-card.png](https://teespring.com/lmr-card)
 - [manjaro-card.png](https://teespring.com/manjaro-card)
+- mint-card -> shirt [us](https://teespring.com/mint-card-white-us)/[eu](https://teespring.com/mint-card-white-eu) | hoodie [us](https://teespring.com/mint-card-white-us#pid=212&cid=5822&sid=front)/[eu](https://teespring.com/mint-card-white-eu#pid=377&cid=100058&sid=front)
 - [php-card.png](https://teespring.com/php-card)
 - python-card.png -> [shirt](https://teespring.com/python-card) | [hoodie](https://teespring.com/python-card-hoodie) | [canvas](https://teespring.com/python-card-on-canvas) | [poster](https://teespring.com/python-poster) | [tapestry](https://teespring.com/python-wall-tapestry)
 - swift-card.png -> [shirt, poster, wall tapestry, mug, pillow](https://teespring.com/swift-card) | [hoodie](https://teespring.com/swift-card-hoodie) | [woman shirts](https://teespring.com/swift-card-woman) | [sticker](https://teespring.com/swift-card-sticker)
@@ -160,6 +162,12 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 
 - [../cards/classic//manjaro-card.png](https://teespring.com/manjaro-card)
 - [manjaro-sun.png](https://teespring.com/manjaro-linux-t-shirt)
+
+--mint
+
+- ../cards/classic/mint-card.png -> shirt [us](https://teespring.com/mint-card-white-us)/[eu](https://teespring.com/mint-card-white-eu) | hoodie [us](https://teespring.com/mint-card-white-us#pid=212&cid=5822&sid=front)/[eu](https://teespring.com/mint-card-white-eu#pid=377&cid=100058&sid=front)
+- ../cards/classic/mint-card-black.png -> shirt [us](https://teespring.com/mint-card-dark-us)/[eu](https://teespring.com/mint-card-dark-eu) | hoodie [us](https://teespring.com/mint-card-dark-us#pid=212&cid=5819&sid=front)/[eu](https://teespring.com/mint-card-dark-eu#pid=377&cid=100069&sid=front)
+
 
 --opensuse
 
