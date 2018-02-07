@@ -210,7 +210,7 @@ for custom requests please create an issue or send us an [email](mailto:jstpcs@p
 - [cosmotux.png](https://teespring.com/cosmotux)
 - [change-permissions.png](https://teespring.com/change-permissions)
 - [dotfiles.png](https://teespring.com/dotfiles)
-- falcon-heavy.png -> shirt [us]/(https://teespring.com/linux-heavy-us)[eu](https://teespring.com/linux-heavy-eu) | hoodie [us]/(https://teespring.com/linux-heavy-us#pid=212&cid=5819&sid=front)[eu]()
+- falcon-heavy.png -> shirt [us](https://teespring.com/linux-heavy-us)/[eu](https://teespring.com/linux-heavy-eu) | hoodie [us](https://teespring.com/linux-heavy-us#pid=212&cid=5819&sid=front)/[eu](https://teespring.com/linux-heavy-eu#pid=377&cid=100069&sid=front)
 - [germany-linux.png](https://teespring.com/germany-the-country-of-linux)
 - [githubopen.png](https://teespring.com/github-open)
 - [gitpornhub.png](https://teespring.com/dsd-github-alone)
