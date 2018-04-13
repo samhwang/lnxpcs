@@ -1,6 +1,6 @@
-### lnxpcs - GNU/Linux/OpenSource related pictures
+# lnxpcs - GNU/Linux/OpenSource related pictures
 
-##### you can support new pictures by purchasing a shirt or hoodie with one of the prints. the previews and links are available at **[linux.pictures](https://linux.pictures)** website. but we really don't mind if you download the high resolutions image from this repo and make a sticker, poster or shirt yourself.
+## you can support new pictures by purchasing a shirt or hoodie with one of the prints. the previews and links are available at **[linux.pictures](https://linux.pictures)** website. but we really don't mind if you download the high resolutions image from this repo and make a sticker, poster or shirt yourself.
 
 ### license
 
