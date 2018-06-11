@@ -1,6 +1,3 @@
-# THIS REPO WILL BE DELETED IN 3 DAYS
-# the images will be hosted in this [folder](https://mega.nz/#F!mXgW3apI!Tdikb01SoOaTmNLiaTRhMg) on mega.nz untill i find a better solution. the previews will be available at [linux.pictures](https://www.linux.pictures/) website.
-
 # lnxpcs - GNU/Linux/OpenSource related pictures
 
 ## you can support new pictures by purchasing a shirt or hoodie with one of the prints. the previews and links are available at **[linux.pictures](https://linux.pictures)** website. but we really don't mind if you download the high resolutions image from this repo and make a sticker, poster or shirt yourself.
