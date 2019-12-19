@@ -9,3 +9,20 @@ all images are distributed under idgaf license. it means that you can use provid
 ### custom requests
 
 for custom requests please create an issue or send us an [email](mailto:jstpcs@protonmail.com).
+
+### usage
+
+```bash
+# command help
+./makemywall -h
+
+# generate one background image
+./makemywall [-vs] width height picture
+
+# generate all images
+# example:
+# width: 1920
+# height: 1080
+# safety: safe|unsafe
+bash generate_all_bg.sh width height safety
+```
