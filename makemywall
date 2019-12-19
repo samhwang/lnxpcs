@@ -40,7 +40,7 @@ $0 -h
 Example: $0 1920 1080 coolimage.png
 
 The following syntax also works:
-find . -type f -name '*.png' | $0 1080 1920
+find . -type f -name '*.png' | $0 1920 1080
 EOH
   exit ${1:-0}
 }
